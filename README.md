@@ -37,7 +37,7 @@ To run this project, you need to have Flutter installed on your machine. If you 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Mohamed0Haikel/Infant_incubator.git
+   git clone https://github.com/Rokia-DSC/Infant-Incubator-.git
 2. Navigate to the project directory
    cd infant-incubator
 3. Install the dependencies
