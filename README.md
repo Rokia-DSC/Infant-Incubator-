@@ -45,6 +45,6 @@ Once the application is running, you will see the main screen displaying key dat
 
 
 ## Contact
-If you have any questions or suggestions, feel free to open an issue or reach out to me at [mohamed.adel.mo18@gmail.com].
+If you have any questions or suggestions, feel free to open an issue or reach out to me at [roqiaadarwish@gmail.com].
 
 Thank you for using the Infant Incubator app. Your baby's well-being is our top priority.
