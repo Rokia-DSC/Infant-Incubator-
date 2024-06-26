@@ -39,10 +39,13 @@ To run this project, you need to have Flutter installed on your machine. If you 
    ```bash
    git clone https://github.com/Rokia-DSC/Infant-Incubator-.git
 2. Navigate to the project directory
+    ```bash
    cd infant-incubator
-3. Install the dependencies
+4. Install the dependencies
+    ```bash
    flutter pub get
-4. Run the application
+6. Run the application
+    ```bash
    flutter run
 ## Usage
 Once the application is running, you will see the main screen displaying key data points like heart rate, temperature, color sensor readings, and humidity levels. Use this information to monitor your infant's condition and communicate with medical professionals as needed.
